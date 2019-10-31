@@ -92,4 +92,4 @@ protected static function boot()
 
 ![Create User](https://github.com/anditsung/laravel-nova-error-message/blob/master/img/create%20user.png)
 
-!(https://github.com/anditsung/laravel-nova-error-message/blob/master/img/update%20user.png)
+![Update User](https://github.com/anditsung/laravel-nova-error-message/blob/master/img/update%20user.png)
