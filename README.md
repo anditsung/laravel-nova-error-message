@@ -89,3 +89,13 @@ protected static function boot()
 ...
 
 ```
+
+Create User<br>
+<img src="https://github.com/anditsung/laravel-nova-error-message/blob/master/img/create%20user.png">
+
+Update User<br>
+<img src="https://github.com/anditsung/laravel-nova-error-message/blob/master/img/update%20user.png">
+
+![create user](https://github.com/anditsung/laravel-nova-error-message/blob/master/img/create%20user.png)
+
+![alt text](https://github.com/anditsung/laravel-nova-error-message/blob/master/img/update%20user.png)
