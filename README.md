@@ -49,14 +49,14 @@ public function fields(Request $request)
 ...
 ```
 
-on Model boot
+on Model
 ```
 ...
 
 private static function validationError($message)
 {
     $messageBag = new MessageBag;
-    $messageBag->add('error', __($message));
+    $messageBag->add('error', __($message));    // 'error' -> must have the same value when creating the field on nova resource
 
     throw ValidationException::withMessages($messageBag->getMessages());
 }
