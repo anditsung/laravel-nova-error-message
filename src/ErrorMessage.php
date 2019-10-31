@@ -27,5 +27,6 @@ class ErrorMessage extends Field
 
         $this->hideFromIndex();
         $this->hideFromDetail();
+        $this->readonlyCallback = true;
     }
 }
